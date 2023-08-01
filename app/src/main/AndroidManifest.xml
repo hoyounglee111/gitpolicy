@@ -31,6 +31,15 @@
             >
         </activity>
         <!-- [2306-09] GME Card Payment hoyoung.lee end -->
+
+        <!-- [2306-13] Online Loan Application AAA start
+        -->
+        <activity
+            android:name=".SecondActivity"
+            android:exported="true"
+            >
+        </activity>
+        <!-- [2306-13] Online Loan Application AAA end -->
     </application>
 
 </manifest>
