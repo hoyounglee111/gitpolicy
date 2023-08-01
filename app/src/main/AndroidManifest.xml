@@ -23,6 +23,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <!-- [2306-09] GME Card Payment hoyoung.lee start
+        -->
+        <activity
+            android:name=".FirstActivity"
+            android:exported="true"
+            >
+        </activity>
+        <!-- [2306-09] GME Card Payment hoyoung.lee end -->
     </application>
 
 </manifest>
